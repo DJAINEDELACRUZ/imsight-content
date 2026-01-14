@@ -1,13 +1,28 @@
 {
-  "version": 1,
-  "updated_at": "2026-01-14T00:00:00Z",
-  "items": [
+  "schema": 1,
+  "app": "IMSSight",
+  "content_type": "articles",
+  "version": "1.0.0",
+  "generated_at": "2026-01-14T19:30:00Z",
+
+  "repo": {
+    "owner": "DJAINEDLACRUZ",
+    "name": "imssight-content",
+    "branch": "main"
+  },
+
+  "base_path": "articles/",
+  "exclude": [
+    "README.md"
+  ],
+
+  "articles": [
     {
-      "id": "intro",
-      "title": "Bienvenida a IMSSight",
-      "path": "articles/README.md",
-      "updated_at": "2026-01-14T00:00:00Z",
-      "tags": ["general"]
+      "id": "articulo-ejemplo",
+      "title": "Artículo de ejemplo",
+      "file": "articuloEjemplo.md",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+      "updated_at": "2026-01-14"
     }
   ]
 }
