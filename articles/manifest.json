@@ -1,10 +1,6 @@
 {
   "version": "1.0",
   "articles": [
-    {
-      "id": "intro",
-      "title": "Introducción",
-      "path": "articles/README.md"
-    }
+    { "id": "intro", "title": "Introducción", "path": "articles/README.md" }
   ]
 }
