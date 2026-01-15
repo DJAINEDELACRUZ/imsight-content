@@ -18,8 +18,8 @@
 
   "articles": [
     {
-      "id": "articulo-ejemplo",
-      "title": "Artículo de ejemplo",
+      "id": "djaine",
+      "title": "djaine",
       "file": "djaine.md",
       "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
       "updated_at": "2026-01-14T19:30:00Z"
