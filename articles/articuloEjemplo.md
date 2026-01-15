@@ -6,7 +6,7 @@ nivel: R1
 # pdf: sepsis.pdf
 ---
 
-# Sepsis
+# LOREM IPSUM
 
 
-documento de prueba Bienvenida Doctora Carolina.
+documento de prueba Bienvenida Doctora PELAYO.
