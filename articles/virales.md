@@ -19,3 +19,6 @@ El 7 de mayo de 2015, la OPS emitió una alerta sobre el potencial de transmisi�
 La directora general de la Organización Mundial de la Salud, resume los resultados de la reunión del Comité de Emergencia, convocado el día 1 de febrero de 2016, en relación con los casos de microcefalia y el síndrome de Guillain-Barré, después de examinar y comparar los datos, del reciente conglomerado de casos de microcefalia y de otros trastornos neurológicos descrito en Brasil, con el registro similar de casos de microcefalia en 2014 en la Polinesia francesa, constituye un «evento extraordinario» y una amenaza para la salud pública de otras partes del mundo.
 
 Se consideró necesaria una respuesta internacional, coordinada para minimizar la amenaza en los países afectados y reducir el riesgo de una mayor propagación internacional. Lo cual es un reto mundial para el control del A. aegypti y sus transmisores virales. Disponible online: http://www.who.int/mediacentre/factsheets/fs327/es/
+
+<img width="503" height="381" alt="Captura de pantalla 2026-01-16 a la(s) 11 00 54 a m" src="https://github.com/user-attachments/assets/d3a40e79-1d79-4de4-890f-0c399ac4468e" />
+
