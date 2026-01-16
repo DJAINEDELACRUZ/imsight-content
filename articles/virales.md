@@ -1,3 +1,13 @@
+---
+titulo: El reto mundial contra el Aedes aegypti y sus transmisiones virales
+tags: [urgencias]
+tipo: algoritmo
+nivel: R1
+# pdf: Aedes.pdf
+
+---
+# El reto mundial contra el Aedes aegypti y sus transmisiones virales
+
 El planeta se encuentra experimentando un cambio climático a gran escala, cambio que ha favorecido el aumento del nivel del mar, de la temperatura de los océanos, de la intensidad de los huracanes, de los ciclones, de las tormentas, de la deforestación, del traslado de plantas o de animales, aunado al importante transporte aéreo de los seres humanos, en conjunto ha creado las condiciones adecuadas para que el vector Aedes aegypti (A. aegypti) sea el transmisor de 3 virus: el virus del dengue, de chikugunya y de Zika, causantes de episodios epidémicos de enfermedades, cada vez más preocupantes, de las que en esta editorial comentaremos. Disponible online: http://www.veterinaria.org/revistas/redvet
 
 En el año 2013, el escenario de transmisión de enfermedades infecciosas virales, causadas principalmente por el culícido de las tribus Aedini, Aedes y, particularmente, sus especies A. aegypti ha cambiado significativamente y, hasta ese año, la Organización Panamericana de la Salud (OPS) habían reportado un total de 2.386.836 casos de dengue en América. En el año 2014, gracias a la gran movilidad en la región, se empezaron a reportar casos en diferentes países, muchos de los cuales tenían ya las condiciones ecoepidemiológicas idóneas para la transmisión, no solo de dengue sino también de chikungunya. A finales de ese año, Francia notificó 2 casos autóctonos, confirmados mediante pruebas de laboratorio en la parte francesa de la isla caribeña de San Martin. Este fue el primer brote documentado de fiebre chikungunya con transmisión autóctona en América. Disponible online: http://www.who.int/mediacentre/factsheets/fs327/es/
