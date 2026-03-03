@@ -4,6 +4,7 @@ tags: [cirugía general]
 tipo: algoritmo
 nivel: R1
 # pdf: apendicitisAguda.pdf
+<img width="103" height="100" alt="image" src="https://github.com/user-attachments/assets/4b01637b-8743-4ed4-a0d1-d001bb16f101" />
 
 ---
 
@@ -78,7 +79,7 @@ Si BH o PCR salen alterados → aumenta la probabilidad.
 
 ---
 
-### Resumen express
+### Resumen
 > Dolor que migra + BH/PCR alterados + imagen positiva  
 > **= apendicitis.**
 
