@@ -1,7 +1,7 @@
-## 🧭 Algoritmo Express para Sospecha de Apendicitis  
+## Apendicitis Aguda
 *(Útil para cualquier tipo de apendicitis: simple, complicada, atípica o variantes anatómicas)*
 
-### 1️⃣ Preguntas iniciales al paciente (30 segundos)
+### Preguntas iniciales al paciente (30 segundos)
 - ¿Dónde inició el dolor?  
 - ¿Se ha movido el dolor de lugar?  
 - ¿Hace cuánto empezó?  
@@ -13,7 +13,7 @@
 
 ---
 
-### 2️⃣ Signos clínicos que NO debes dejar pasar
+### Signos clínicos que NO se deben dejar pasar
 - Dolor periumbilical que migra a FID.  
 - Dolor que se intensifica al toser, reír o caminar.  
 - Fiebre ligera.  
@@ -22,7 +22,7 @@
 
 ---
 
-### 3️⃣ Estudios iniciales (lo mínimo indispensable)
+### Estudios iniciales (lo mínimo indispensable)
 - **BH** → leucocitos y neutrófilos.  
 - **PCR** → si está disponible.  
 - **EGO** → descartar cólico renal / IVU.
@@ -31,8 +31,8 @@ Si BH o PCR salen alterados → aumenta la probabilidad.
 
 ---
 
-### 4️⃣ Imagen que debes solicitar según disponibilidad
-- **Primera elección:** *Ultrasonido* (rápido, barato, útil).  
+### Imagen que se debe solicitar según disponibilidad
+- **Primera elección:** *Ultrasonido* (rápido y útil).  
 - **Confirmación / duda diagnóstica:** *TAC abdomen simple o contrastada*.  
 - Indicadores imagenológicos clave:  
   - Apéndice > 6 mm  
@@ -42,7 +42,7 @@ Si BH o PCR salen alterados → aumenta la probabilidad.
 
 ---
 
-### 5️⃣ ¿Cuándo sospechar complicación?
+### ¿Cuándo sospechar complicación?
 - Fiebre persistente  
 - Dolor muy localizado e intenso  
 - Leucos > 13,000  
@@ -52,14 +52,14 @@ Si BH o PCR salen alterados → aumenta la probabilidad.
 
 ---
 
-### 6️⃣ Conducta Terapéutica (regla de oro)
+### Conducta Terapéutica (regla de oro)
 - **Si sospecha clínica fuerte → valorar apendicectomía.**  
 - **Si hay criterios de complicación → antibióticos + preparación quirúrgica inmediata.**  
 - No retrasar cirugía si la evolución es típica.
 
 ---
 
-### 7️⃣ Señales de alarma (para NO enviar a casa)
+### Señales de alarma (para NO enviar a casa)
 - Dolor migratorio clásico  
 - Leucocitos muy elevados  
 - PCR elevada  
@@ -69,8 +69,8 @@ Si BH o PCR salen alterados → aumenta la probabilidad.
 
 ---
 
-### 8️⃣ Resumen express para que no haya duda
+### Resumen express
 > Dolor que migra + BH/PCR alterados + imagen positiva  
-> **= apendicitis hasta demostrar lo contrario.**
+> **= apendicitis.**
 
 ---
