@@ -1,3 +1,12 @@
+---
+titulo: Apendicitis Aguda
+tags: [cirugía general]
+tipo: algoritmo
+nivel: R1
+# pdf: apendicitisAguda.pdf
+
+---
+
 ## Apendicitis Aguda
 *(Útil para cualquier tipo de apendicitis: simple, complicada, atípica o variantes anatómicas)*
 
