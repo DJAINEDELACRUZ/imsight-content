@@ -1,113 +1,76 @@
----
-titulo: apendicitis aguda
-tags: [cirugia geneal]
-tipo: algoritmo
-nivel: R1
-# pdf: apendicitis.pdf
+## 🧭 Algoritmo Express para Sospecha de Apendicitis  
+*(Útil para cualquier tipo de apendicitis: simple, complicada, atípica o variantes anatómicas)*
+
+### 1️⃣ Preguntas iniciales al paciente (30 segundos)
+- ¿Dónde inició el dolor?  
+- ¿Se ha movido el dolor de lugar?  
+- ¿Hace cuánto empezó?  
+- ¿Tiene náusea, vómito o falta de apetito?  
+- ¿Ha tenido fiebre?  
+- ¿Puede caminar erguido o el dolor aumenta al hacerlo?
+
+**Clave:** dolor que *mueve su localización* → aumenta sospecha.
 
 ---
 
-# APENDICITIS AGUDA  
-## Perlas Clínicas – Módulo de Urgencias / Cirugía General
+### 2️⃣ Signos clínicos que NO debes dejar pasar
+- Dolor periumbilical que migra a FID.  
+- Dolor que se intensifica al toser, reír o caminar.  
+- Fiebre ligera.  
+- Náusea + anorexia.  
+- Rigidez localizada en FID.
 
 ---
 
-## Clínica
-- Dolor periumbilical que migra a FID en 24–48 h.  
-- Anorexia + náusea + fiebre ligera.  
-- Secuencia de Murphy: dolor visceral → dolor parietal localizado.
+### 3️⃣ Estudios iniciales (lo mínimo indispensable)
+- **BH** → leucocitos y neutrófilos.  
+- **PCR** → si está disponible.  
+- **EGO** → descartar cólico renal / IVU.
+
+Si BH o PCR salen alterados → aumenta la probabilidad.
 
 ---
 
-## Datos de Alarma (Sugestivos de complicación)
-- Dolor muy localizado e intenso.  
-- Fiebre persistente.  
-- Leucocitosis > 13,000.  
-- Neutrófilos > 80 %.  
-- PCR > 8–10 mg/dL.  
-- Líquido libre pericecal en imagen.
+### 4️⃣ Imagen que debes solicitar según disponibilidad
+- **Primera elección:** *Ultrasonido* (rápido, barato, útil).  
+- **Confirmación / duda diagnóstica:** *TAC abdomen simple o contrastada*.  
+- Indicadores imagenológicos clave:  
+  - Apéndice > 6 mm  
+  - Grasa pericecal inflamada  
+  - Líquido libre  
+  - No compresible  
 
 ---
 
-## Laboratorio Esencial
-- Leucocitos elevados + desviación izquierda = inflamación aguda.  
-- PCR elevada → se correlaciona con gangrena/perforación.  
-- EGO normal ayuda a descartar cólico renal.
+### 5️⃣ ¿Cuándo sospechar complicación?
+- Fiebre persistente  
+- Dolor muy localizado e intenso  
+- Leucos > 13,000  
+- PCR > 8–10 mg/dL  
+- Líquido libre o estriación marcada en TC  
+- Palpación extremadamente dolorosa
 
 ---
 
-## Escalas Clínicas (Express)
-### **AIR Score** (la mejor para complicada)
-- Incluye PCR.  
-- Alto riesgo → imagen + preparación para cirugía.
-
-### **Alvarado**
-- No incluye PCR.  
-- Útil pero menos específico en adultos.
+### 6️⃣ Conducta Terapéutica (regla de oro)
+- **Si sospecha clínica fuerte → valorar apendicectomía.**  
+- **Si hay criterios de complicación → antibióticos + preparación quirúrgica inmediata.**  
+- No retrasar cirugía si la evolución es típica.
 
 ---
 
-## Criterios de Imagen
-- Apéndice > 6 mm.  
-- Engrosamiento de la pared.  
-- Estriación de grasa periapendicular.  
-- Líquido libre.  
-- No compresible.  
-**TC = estudio más confiable.**
+### 7️⃣ Señales de alarma (para NO enviar a casa)
+- Dolor migratorio clásico  
+- Leucocitos muy elevados  
+- PCR elevada  
+- Fiebre  
+- Dolor que no cede con analgésicos  
+- Signos peritoneales  
 
 ---
 
-## Anatomía Express
-- Retrocecal: 74%  
-- Pélvico: 21%  
-- Paracecal: 2%  
-- Subcecal: 1.5%  
-- Preileal: 1%  
-- Postileal: 0.5%
+### 8️⃣ Resumen express para que no haya duda
+> Dolor que migra + BH/PCR alterados + imagen positiva  
+> **= apendicitis hasta demostrar lo contrario.**
 
 ---
-
-## Diagnóstico Final (Perlas)
-- Dolor que migra a FID + leucos altos + PCR elevada → sospecha fuerte.  
-- AIR alto + TC positiva → apendicitis complicada fase III.
-
----
-
-## Tratamiento Clave
-- **Antibióticos IV + apendicectomía urgente.**  
-- No retrasar cirugía en fase III.
-
----
-
-## Hallazgos Quirúrgicos
-- Edema  
-- Congestión  
-- Necrosis  
-- Serosa opaca  
-- Líquido inflamatorio  
-
----
-
-## Complicación más grave
-- **Perforación con peritonitis.**
-
----
-
-## Postoperatorio
-- Antibiótico IV 48 h.  
-- Analgesia multimodal.  
-- Movilización temprana.  
-- Alta a las 48–72 h si estable.
-
----
-
-## Indicaciones al Egreso
-- Antibiótico VO 5 días.  
-- Analgésico a demanda.  
-- Reposo relativo.  
-- Control a 7 días.
-
----
-
-## Resumen
-**Apendicitis complicada = dolor migratorio + PCR alta + leucos elevados + imagen positiva → antibióticos + cirugía.**
