@@ -4,7 +4,6 @@ tags: [cirugía general]
 tipo: algoritmo
 nivel: R1
 # pdf: apendicitisAguda.pdf
-<img width="103" height="100" alt="image" src="https://github.com/user-attachments/assets/4b01637b-8743-4ed4-a0d1-d001bb16f101" />
 
 ---
 
